@@ -1,4 +1,4 @@
-Git Repository Link: [PASTE YOUR GITHUB LINK HERE]
+Git Repository Link: https://github.com/jithya2003/IT23175198-test-automation.git
 
 This repository contains the full Playwright project for the PixelsSuite.com testing assignment, including:
 - Automated test script (IT23175198_image_preview_test.py)

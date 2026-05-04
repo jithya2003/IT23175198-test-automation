@@ -1,0 +1,7 @@
+Git Repository Link: [PASTE YOUR GITHUB LINK HERE]
+
+This repository contains the full Playwright project for the PixelsSuite.com testing assignment, including:
+- Automated test script (IT23175198_image_preview_test.py)
+- Execution results (IT23175198_execution_results.csv)
+- Manual test cases
+- Documentation (README.md)
